@@ -31,13 +31,13 @@
 
 // IMPORTANT! Update these with your own values -- the org name,
 // app name, and notifier you created in the portal.
-var orgName = "YOUR ORGNAME";
-var appName = "YOUR APPNAME";
-var notifier = "YOUR NOTIFIER";
+var orgName = "pravinhanchinal";
+var appName = "sandbox";
+var notifier = "gcm-pravin";
 
 // IMPORTANT! Change the senderID value to match your 
 // Google API project number.
-var senderID = "YOUR SENDER ID";
+var senderID = "AIzaSyAk5gJzjd0Yyf8YZ5Z3JF2srXzLnQvcKhM";
 
 var client = null;
 
