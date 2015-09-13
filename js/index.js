@@ -37,7 +37,7 @@ var notifier = "gcm-pravin";
 
 // IMPORTANT! Change the senderID value to match your 
 // Google API project number.
-var senderID = "AIzaSyAk5gJzjd0Yyf8YZ5Z3JF2srXzLnQvcKhM";
+var senderID = "241828784218";
 
 var client = null;
 
